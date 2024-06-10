@@ -1,0 +1,12 @@
+Nodes
+player {name: Shikar Dhawan, YOB: 1985, POB: Delhi}
+Country {name: India}
+Country {name: Pakistan}
+player {name: Babar Azam, YOB: 1985, POB: Lahore}
+player {name: Virat Kohli, YOB: 1985, POB: Islamabad}
+player {name: Messi, YOB:  2024, POB: Lahore}
+Edges
+3 [BATSMAN_OF {}] 2
+4 [BATSMAN_OF {}] 2
+5 [BATSMAN_OF {}] 2
+0 [BATSMAN_OF {}] 1
